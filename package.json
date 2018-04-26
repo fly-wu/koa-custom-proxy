@@ -1,0 +1,23 @@
+{
+  "name": "koa-custom-proxy",
+  "version": "1.0.0",
+  "description": "koa proxy middleware base on http-proxy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "http-proxy",
+    "koa",
+    "middleware"
+  ],
+  "author": "fly.wu",
+  "dependencies": {
+    "http-proxy": "^1.16.2",
+    "format-logger": "^2.0.0",
+    "path-match": "^1.2.4"
+  },
+  "devDependencies": {
+    "koa": "^2.5.0"
+  }
+}
