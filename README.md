@@ -2,7 +2,7 @@
 
 ```js
 const Koa = require('koa');
-const koaProxy = require('koa-custom-');
+const koaProxy = require('koa-custom-proxy');
 
 // http://127.0.0.1:3003/api/ip will be mapped to http://httpbin.org/ip
 const proxyConfigs = [{
