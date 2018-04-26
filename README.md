@@ -63,7 +63,7 @@ console.log(`start server: http://127.0.0.1:${port}`);
 
 - proxy(matchPath, options)
 
-  ```
+```
 matchPath: 基于path-match格式的路径
 
 options: {

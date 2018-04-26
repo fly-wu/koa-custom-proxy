@@ -12,6 +12,10 @@
     "middleware"
   ],
   "author": "fly.wu",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fly-wu/koa-custom-proxy.git"
+  },
   "dependencies": {
     "http-proxy": "^1.16.2",
     "format-logger": "^2.0.0",
